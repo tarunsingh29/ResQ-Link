@@ -1,0 +1,5 @@
+opencv-python
+djitellopy
+ultralytics
+streamlit
+pyttsx3
